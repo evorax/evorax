@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# My Skill (Programming Languages, Frameworks and Tools)
+## My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode,docker,discord,vite,golang" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode,docker,discord,svelte,golang,zig" /> <br /><br />
 <!--
 **evorax/evorax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
