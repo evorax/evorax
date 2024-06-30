@@ -8,7 +8,9 @@ I'm student
 
 ## My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,svelte,golang,zig" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,golang,zig,javascript,rust" /> <br /><br />
+
+BTC: bc1qyzvpentfdjrdp4h493346r3fy6ulp7r67hghcl
 <!--
 **evorax/evorax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
