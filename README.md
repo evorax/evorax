@@ -10,7 +10,7 @@ I'm student
 
 <img src="https://skillicons.dev/icons?i=python,golang,zig,javascript,rust" /> <br /><br />
 
-BTC: bc1qyzvpentfdjrdp4h493346r3fy6ulp7r67hghcl
+BTC: bc1q38g0ytthxpk2rmdhtlqxrtk28yse4gkq93evpf
 <!--
 **evorax/evorax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
