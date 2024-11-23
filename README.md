@@ -8,7 +8,7 @@ i am a japanese student
 
 ## My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,golang,zig,javascript,rust,llvm" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,golang,zig,javascript,rust,nextjs,svelte,react,astro,vue" /> <br /><br />
 
 <!--
 **evorax/evorax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
