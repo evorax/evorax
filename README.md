@@ -4,7 +4,7 @@ I'm an admin on https://eptrone.com/
 
 ### profile
 
-i am a japanese student
+I am a japanese student
 
 ## My Skill (Programming Languages, Frameworks and Tools)
 
