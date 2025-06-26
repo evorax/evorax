@@ -9,6 +9,7 @@ I am a japanese student
 ### contact
 
 discord: evorax_eptrone
+
 X: https://x.com/evorax_eptrone
 
 ## My Skill (Programming Languages, Frameworks and Tools)
