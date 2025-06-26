@@ -6,6 +6,10 @@ I'm an admin on https://eptrone.com/
 
 I am a japanese student
 
+### contact
+
+discord: evorax_eptrone
+
 ## My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=python,golang,zig,javascript,rust,nextjs,svelte,react,astro,vue" /> <br /><br />
